@@ -399,3 +399,4 @@ public class FolderStatistics
     public int MatchingFolders { get; set; }
     public int MissingFolders { get; set; }
 }
+
